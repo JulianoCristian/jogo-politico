@@ -1,6 +1,10 @@
 # Análise do jogo político na Câmara dos Deputados
 
-Esse repositório contém um exemplo prático de como extrair e analisar dados de votações utilizando a [API de Dados Abertos da Câmara dos Deputados](https://dadosabertos.camara.leg.br).
+![br-us](./images/politics-matrix-comp.png)
+_Figura: Comparação de posicionamento político. Esquerda: Brasil. Direita: EUA._
+
+
+Este repositório contém um exemplo prático de como extrair e analisar dados de votações utilizando a [API de Dados Abertos da Câmara dos Deputados](https://dadosabertos.camara.leg.br).
 
 Veja os detalhes da análise no [notebook](./jogo-politico.ipynb).
 
